@@ -3343,6 +3343,8 @@ Puteți modifica acest lucru mai târziu în Setări>Aplicații și notificări.
     <string name="location_network_based">Wi-Fi şi reţeaua mobilă</string>
     <string name="location_no_recent_accesses">Nicio aplicație nu a accesat locația recent</string>
     <string name="location_no_recent_apps">Nicio aplicație nu a solicitat locația recent</string>
+    <string name="location_off_summary">Oprit</string>
+    <string name="location_on_summary">Pornit</string>
     <string name="location_recent_location_access_view_details">Vedeți detalii</string>
     <string name="location_recent_location_requests_see_all">Vedeți tot</string>
     <string name="location_scanning_bluetooth_always_scanning_description">Îmbunătățiți precizia de localizare permițând permanent serviciilor și aplicațiilor de sistem detectarea dispozitivelor Bluetooth.</string>
